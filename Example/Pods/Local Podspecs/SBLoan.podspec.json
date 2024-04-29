@@ -1,0 +1,22 @@
+{
+  "name": "SBLoan",
+  "version": "0.1.0",
+  "summary": "A short description of SBLoan.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Adriano Araujo Valumin/SBLoan",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Adriano Araujo Valumin": "adriano.valumin@outlook.com"
+  },
+  "source": {
+    "git": "https://github.com/Adriano Araujo Valumin/SBLoan.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "SBLoan/Classes/**/*"
+}
