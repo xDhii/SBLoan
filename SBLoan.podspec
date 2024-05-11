@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SBLoan'
-  s.version          = '0.1.3'
+  s.version          = '0.2.0'
   s.summary          = 'Módulo de empréstimos para o aplicativo do SwiftBank.'
   s.description      = 'SB Loan é uma biblioteca que permite o usuário acessar sua carteira de crédito disponível.'
 
