@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SBLoan'
-  s.version          = '0.2.0'
+  s.version          = '0.3.0'
   s.summary          = 'Módulo de empréstimos para o aplicativo do SwiftBank.'
   s.description      = 'SB Loan é uma biblioteca que permite o usuário acessar sua carteira de crédito disponível.'
 
@@ -17,8 +17,8 @@ Pod::Spec.new do |s|
   s.author           = { 'Adriano Araujo Valumin' => 'adriano.valumin@outlook.com' }
   s.source           = { :git => 'https://github.com/xDhii/SBLoan.git', :tag => s.version.to_s }
 
-  s.ios.deployment_target = '17.4'
-  s.swift_versions = '5.10'
+  s.ios.deployment_target = '18.0'
+  s.swift_versions = '6.0'
 
   s.source_files = 'Classes/**/*'
  
